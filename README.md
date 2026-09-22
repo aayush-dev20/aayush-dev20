@@ -14,7 +14,7 @@
 
 ## 🧭 Currently Learning:
 - 📌 Data Structures & Algorithms with  C++ 
-- 📌 JavaScript (core fundamentals)
+- 📌 Currently learning React
 - 📌 Git & GitHub workflows
 
 
